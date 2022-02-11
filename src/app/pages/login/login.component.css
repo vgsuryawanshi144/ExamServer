@@ -1,0 +1,6 @@
+.full-width{
+    width: 100%;
+}
+.accent-color {
+    color: mat-color(primary) !important;
+  }
